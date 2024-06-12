@@ -37,15 +37,27 @@
       }
     },
     {
-      "id": "4d7a",
-      "cityName": "Muscat",
-      "country": "Oman",
-      "emoji": "🇴🇲",
-      "date": "2024-06-11T11:45:55.580Z",
-      "notes": "born here",
+      "id": "0484",
+      "cityName": "Trujillo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-11T17:47:44.812Z",
+      "notes": "trip to tru...",
       "position": {
-        "lat": "23.543845136505844",
-        "lng": "58.35937500000001"
+        "lat": "39.554883059924016",
+        "lng": "-5.844726562500001"
+      }
+    },
+    {
+      "id": "2c54",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-11T17:48:41.645Z",
+      "notes": "chickmangluru ",
+      "position": {
+        "lat": "12.85464890558895",
+        "lng": "77.574462890625"
       }
     }
   ]
